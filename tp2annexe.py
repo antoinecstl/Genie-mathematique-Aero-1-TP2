@@ -7,8 +7,10 @@ Stockage
 
 import math as m
 #Equation n°1
+ #Forme n°1
 def g11(x):
     return (-3*x+9)**(1/4)
+ #Forme n°2
 def g12(x):
     return -(-3*x+9)**(1/4)
 #Equation n°2
@@ -18,8 +20,10 @@ def g2(x):
 def g3(x):
     return m.log(7)-m.log(x)
 #Equation n°4
+ #Forme n°1
 def g41(x):
     return m.log(10+x)
+ #Forme n°2
 def g42(x):
     return m.exp(x)-10
 #Equation n°5
