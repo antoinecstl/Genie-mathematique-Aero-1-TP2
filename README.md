@@ -1,3 +1,2 @@
-# ProjetMA123CASTEL-LEPAGE
-Code de Hugo LEPAGE et Antoine CASTEL TP n°2
-Bonne lecture
+# Génie mathématique TP n°2
+Code de Hugo LEPAGE et Antoine CASTEL
